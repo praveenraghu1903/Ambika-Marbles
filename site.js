@@ -1,7 +1,7 @@
 // Shop details. Add your number below (digits only, with country code, e.g. "919876543210").
 // While PHONE is empty, the WhatsApp button stays hidden and the main button points to the showrooms.
 const CONFIG = {
-  PHONE: "9755657287"
+  PHONE: "919755657287"
 };
 
 document.getElementById("year").textContent = new Date().getFullYear();
